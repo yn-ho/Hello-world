@@ -1,0 +1,54 @@
+@import "reset.css";
+
+body {
+
+  /*background: rgb(80,73,208);
+  background: linear-gradient(90deg, rgba(80,73,208,1) 0%, rgba(129,218,193,1) 33%, rgba(249,125,255,1) 100%);
+  */
+}
+
+.container {
+
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+}
+
+.container h1{
+
+  font-family: 'Inter', sans-serif;
+  font-size: 90px;
+  color: black;
+  text-align: center;
+  padding-top: 50px;
+  text-shadow: 4px 6px 9px rgba(0,0,0,0.44);
+  font-weight: lighter;
+
+}
+
+
+.container img {
+
+  width: 30%;
+  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 100px;
+
+}
+
+.container .description {
+
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+    text-align: center;
+    text-shadow: 4px 6px 9px rgba(0,0,0,0.44);
+
+
+
+}
